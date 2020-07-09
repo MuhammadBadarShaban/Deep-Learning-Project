@@ -48,7 +48,7 @@ Here is the mean accuracy precision of our model trying with different Input ove
 ![](Images/Output_Images/IOU_table.JPG)
 
 
-# **[Fruits Classification on Hyperspectral Images]**
+# **Fruits Classification on Hyperspectral Images**
 
 ## Dataset:
 Total Classes: 4
@@ -75,5 +75,25 @@ Total number of images: 20
 ![](Images/Confusion_Matrix/DenseNet201.jpg)
 
 
+# **Fake vs Real Fruits Classification on Hyperspectral Images**
 
+## Dataset:
+Total Classes: 4
+Total Bands: 396
+Picture Dimensions:  1106 x 1312 x 396
+Total number of images: 20
+
+## Input Image
+![](Images/Input_Images/apple_hyperspectral.png)
+
+## DenseNet121 Architecture
+
+![](Images/DenseNet121.JPG)
+
+## Output Image
+![](Images/Output_Images/apple_hyperspectral.png)
+
+## Results
+
+In this task we performed several experiments 
 
