@@ -16,10 +16,31 @@ Picture Dimensions: 320×258
 Total number of images: 500
 
 ## Input Images
-![](Images/Imput_Images/apple.png)
-![](Images/Imput_Images/orange.png)
-![](Images/Imput_Images/peach.png)
-![](Images/Imput_Images/mango.png)
-![](Images/Imput_Images/tomato.png)
+![](Images/Input_Images/apple.png)
+![](Images/Input_Images/orange.png)
+![](Images/Input_Images/mango.png)
+![](Images/Input_Images/peach.png)
+![](Images/Input_Images/tomato.png)
+
+## Mask_RCNN Architecture
+
+![](Images/Mask_RCNN.jpg)
+
+## Results
+### Output Images
+![](Images/Output_Images/Apple.png)
+![](Images/Output_Images/Orange.png)
+![](Images/Output_Images/Mango.png)
+![](Images/Output_Images/Peach.jpg)
+![](Images/Output_Images/Tomato.jpg)
+
+### Mean Accuracy Precision (mAP)
+
+mAP:             (0.8897, 0.8897, 0.8873, 0.8822, 0.7629)
+IOU threshold:   (0.5,    0.55,   0.6,    0.65,   0.7)
+
+
+
+
 
 
