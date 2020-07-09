@@ -36,10 +36,32 @@ Total number of images: 500
 
 ### Mean Accuracy Precision (mAP)
 
-mAP:             (0.8897, 0.8897, 0.8873, 0.8822, 0.7629)
-IOU threshold:   (0.5,    0.55,   0.6,    0.65,   0.7)
+![](Images/Output_Images/IOU_table.JPG)
 
 
+# Experiment 2(Fruits Classification on Hyperspectral Images)
+
+## Dataset:
+Total Classes: 4
+Total Bands: 396
+Picture Dimensions:  1106 x 1312 x 396
+Total number of images: 20
+
+## Input Image
+![](Images/Input_Images/apple_hyperspectral.png)
+!
+## DenseNet121 Architecture
+
+![](Images/DenseNet121.JPG)
+
+## Results
+### Output Image
+![](Images/Output_Images/apple_hyperspectral.png)
+
+### Confusion Matrices
+
+![](Images/Confusion_Matrix/DenseNet121.jpg)
+![](Images/Confusion_Matrix/DenseNet201.jpg)
 
 
 
