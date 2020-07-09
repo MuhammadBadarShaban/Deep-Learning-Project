@@ -59,8 +59,10 @@ Total number of images: 20
 ![](Images/Output_Images/densenet_results.JPG)
 
 ### Confusion Matrices
-
+#### DenseNet121
 ![](Images/Confusion_Matrix/DenseNet121.jpg)
+
+#### DenseNet201
 ![](Images/Confusion_Matrix/DenseNet201.jpg)
 
 
