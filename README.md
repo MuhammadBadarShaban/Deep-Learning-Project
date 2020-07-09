@@ -8,7 +8,7 @@ Numerous endeavors have been made in the correct detection and segmentation of o
 
 [Hyperspectral & Color Imaging](https://sites.google.com/site/hyperspectralcolorimaging/dataset)
 
-# Experiment 1(Fruits detection using Mask_RCNN)
+# **[Fruits detection using Mask_RCNN]**
 
 ## Dataset:
 Total Classes: 5
@@ -39,7 +39,7 @@ Total number of images: 500
 ![](Images/Output_Images/IOU_table.JPG)
 
 
-# Experiment 2(Fruits Classification on Hyperspectral Images)
+# **[Fruits Classification on Hyperspectral Images]**
 
 ## Dataset:
 Total Classes: 4
@@ -49,14 +49,14 @@ Total number of images: 20
 
 ## Input Image
 ![](Images/Input_Images/apple_hyperspectral.png)
-!
+
 ## DenseNet121 Architecture
 
-![](Images/DenseNet121.JPG)
+![](Images/DenseNet121_simple.JPG)
 
 ## Results
-### Output Image
-![](Images/Output_Images/apple_hyperspectral.png)
+### Accuracy
+![](Images/Output_Images/densenet_results.JPG)
 
 ### Confusion Matrices
 
