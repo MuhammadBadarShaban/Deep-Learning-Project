@@ -12,15 +12,15 @@ The two datasets that were used during the course of this project are:
 
 # **Fruits detection using Mask-RCNN**
 
+  ## Mask_RCNN Architecture
+![](Images/Mask_RCNN.jpg)
+
 ## Dataset:
  [Fruit Recognition Dataset](https://zenodo.org/record/1310165)
- 
+
 Total Classes: 5
 Picture Dimensions: 320×258
 Total number of images: 500
-
-## Mask_RCNN Architecture
-![](Images/Mask_RCNN.jpg)
 
 ## Input Images
 These are the input images for our model: 
