@@ -21,6 +21,7 @@ Total number of images: 500
 
 ## Input Images
 These are the input images for our model: 
+
 ![](Images/Input_Images/apple.png)
 ![](Images/Input_Images/orange.png)
 ![](Images/Input_Images/mango.png)
