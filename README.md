@@ -19,6 +19,9 @@ Total Classes: 5
 Picture Dimensions: 320×258
 Total number of images: 500
 
+## Mask_RCNN Architecture
+![](Images/Mask_RCNN.jpg)
+
 ## Input Images
 These are the input images for our model: 
 
@@ -27,9 +30,6 @@ These are the input images for our model:
 ![](Images/Input_Images/mango.png)
 ![](Images/Input_Images/peach.png)
 ![](Images/Input_Images/tomato.png)
-
-## Mask_RCNN Architecture
-![](Images/Mask_RCNN.jpg)
 
 ## Results
 ### Output Images
